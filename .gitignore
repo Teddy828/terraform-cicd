@@ -1,5 +1,5 @@
 .terraform/
 .terraform.lock.hcl
 terraform.tfstate*
-*.tfvars
+terraform.tfvars
 backend.tf
