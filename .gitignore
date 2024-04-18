@@ -3,3 +3,4 @@
 terraform.tfstate*
 terraform.tfvars
 backend.tf
+linuxkey.pem
